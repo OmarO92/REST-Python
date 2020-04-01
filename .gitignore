@@ -3,4 +3,14 @@
 [Ss]cripts
 [Tt]cl
 LICENSE.txt
-__pychace__/
+*.pyo
+*.pyc
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib64
